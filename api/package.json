@@ -1,0 +1,16 @@
+{
+  "name": "file-visualizer-api",
+  "version": "1.0.0",
+  "description": "API endpoints for File Visualizer",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.15.0"
+  },
+  "devDependencies": {}
+} 
