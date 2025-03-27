@@ -1,0 +1,13 @@
+{
+  "name": "file-visualizer",
+  "version": "0.3.9",
+  "description": "A file visualization tool using Anthropic Claude API",
+  "main": "index.js",
+  "dependencies": {
+    "@vercel/analytics": "^1.2.0",
+    "@vercel/speed-insights": "^1.0.10"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+} 
